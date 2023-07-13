@@ -2,7 +2,9 @@ import time
 import random
 
 # Dungeon and Dragon Combat game
-# inspired by Luc Rieffel's CS course
+# Recreated an assignment after recieving from a peer
+# Project created by Chapman University
+#https://docs.google.com/document/d/1jVlJPtFNLWmT9qYNh_PSRbgshfaxSLE1dLMijj1K8Ps/edit?usp=sharing
 # Coded by David Cui
 # 7/1/2023 - 7/10/2023
 
